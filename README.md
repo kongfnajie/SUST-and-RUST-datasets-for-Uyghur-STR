@@ -1,7 +1,10 @@
-#SUST-拉斯特-维族-STR数据集
-[SUST &拉斯特](https://aistudio.baidu.com/datasetdetail/223105)
+#SUST-and-RUST-datasets-for-Uyghur-STR
 
-SUST是一个包含600,000个维吾尔图像的合成数据集,每个图像包含一个维吾尔语单词,最大单词长度为15个字符,该单词仅由32个基本维吾尔字母组成,没有其他符号。因此,该数据集仅适用于训练基于单词级场景的维吾尔语文本识别模型。使用的合成工具是TextRecognitionDataGenerator .SUST的部分例子如图3a所示。每张图片的背景是从8000多张背景图片中随机选取的搜资料,字体是从300多种维吾尔字体中随机选取的,图片中的文字有随机程度的倾斜、模糊、扭曲等效果,如图106 . SUST的背景、字体和语料库都来自互联网。
+[SUST&RUST](https://aistudio.baidu.com/datasetdetail/223105)
+SUST is a synthetic dataset containing 600,000 Uyghur images, each image contains one Uyghur word, the maximum word length is 15 characters and the word consists of only 32 basic Uyghur alphabets without other symbols. Therefore, this dataset is only suitable for training word-level scene-based Uyghur text recognition models. The synthesis tool used is TextRecognitionDataGenerator. The background of each picture is randomly selected from more than 8000 background materials, the font is randomly selected from more than 300 kinds of Uyghur fonts, and the text in the picture has the effects of tilting, blurring and distorting in random degrees, as shown in Figure.  The backgrounds, fonts, and corpus in SUST are sourced from the internet.
+
+![SUST]()
 
 
-![锈](https://github . com/kongfnajie/SUST-和-RUST-datasets-for-维吾尔语-STR/blob/main/RUST.png)
+RUST is a real dataset shot in Xinjiang, China, as shown in Fig. 5, which contains a total of 4,000 real Uyghur scene text images. as shown in Figure.
+![RUST]()
