@@ -6,4 +6,5 @@ SUST is a synthetic dataset containing 600,000 Uyghur images, each image contain
 ![SUST](https://github.com/kongfnajie/SUST-and-RUST-datasets-for-Uyghur-STR/blob/main/SUST.png)
 
 RUST is a real dataset shot in Xinjiang, China, as shown in Fig. 5, which contains a total of 4,000 real Uyghur scene text images. as shown in Figure.
-![RUST]([https://github.com/kongfnajie/SUST-and-RUST-datasets-for-Uyghur-STR/blob/main/RUST.png](https://github.com/kongfnajie/SUST-and-RUST-datasets-for-Uyghur-STR/blob/main/RUST.png)https://github.com/kongfnajie/SUST-and-RUST-datasets-for-Uyghur-STR/blob/main/RUST.png)
+
+![RUST](https://github.com/kongfnajie/SUST-and-RUST-datasets-for-Uyghur-STR/blob/main/RUST.png)
